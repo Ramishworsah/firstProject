@@ -1,0 +1,30 @@
+body{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    font-size: 10px;
+}
+h1{
+    color: rgb(46, 36, 35);
+    font-size: 2.5rem ;
+}
+h2{
+    color: rgb(63, 196, 43);
+    font-size: 3rem ;
+}
+h3{
+    color: rgb(120, 74, 105);
+    font-size: 2.6rem ;
+}
+h4{
+    color: rgb(104, 55, 49);
+    font-size: 4rem ;
+}
+h5{
+    color: rgb(28, 26, 3);
+    font-size: 3.5rem ;
+}
+h6{
+    color: rgb(47, 79, 159);
+    font-size: 1ch ;
+}
